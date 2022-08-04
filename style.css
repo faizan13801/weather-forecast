@@ -66,7 +66,7 @@
       }
       
       .app-wrap {
-        background: linear-gradient(180deg, #7802ae, #460166);
+        background: linear-gradient(180deg, #02aeab, #460166);
         height: 100vh;
         display: flex;
         flex-direction: column;
@@ -82,7 +82,7 @@
         border: none;
         border-bottom-right-radius: 30px;
         border-bottom: 4px solid #d5820c;
-        background: #9d4ec2;
+        background: #7c09b1d8;
         outline: none;
         padding: 0 5%;
         font-size: larger;
@@ -96,7 +96,7 @@
       }
       
       .search-box:focus::placeholder {
-        color: #9d4ec2;
+        color: #b985d2;
       }
       
       header {
